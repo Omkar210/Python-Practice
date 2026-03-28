@@ -108,8 +108,8 @@ Python-Practice/
 ## Future Roadmap
 
 ### Phase 1: Core Projects Expansion (In Progress)
-- [ ] InHand Salary Calculator
-- [ ] Secret Number
+- [x] InHand Salary Calculator
+- [x] Secret Number
 - [ ] Budget Tracker Application
 - [ ] Todo List Manager
 - [ ] Student Grade Analysis System
