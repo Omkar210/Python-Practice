@@ -15,7 +15,7 @@ This repository demonstrates practical Python skills including:
 ## Projects
 
 ### 1. **In-Hand Salary Calculator**
-`InHand_Salary_Calculator/`
+`InHand_Salary_Calculator`
 
 A Python application that calculates **net (in-hand) salary** from gross salary according to the **Indian salary structure**. This calculator applies all mandatory deductions and taxes to compute the actual amount an employee receives monthly.
 
@@ -35,7 +35,7 @@ A Python application that calculates **net (in-hand) salary** from gross salary 
 ---
 
 ### 2. **Secret Number Guessing Game**
-`Secret_Number/`
+`Secret_Number`
 
 An interactive command-line game where one player sets a secret number and another player tries to guess it within a limited number of attempts. Features secure input handling and clear game feedback.
 
@@ -108,6 +108,8 @@ Python-Practice/
 ## Future Roadmap
 
 ### Phase 1: Core Projects Expansion (In Progress)
+- [x] InHand Salary Calculator
+- [x] Secret Number
 - [ ] Budget Tracker Application
 - [ ] Todo List Manager
 - [ ] Student Grade Analysis System
