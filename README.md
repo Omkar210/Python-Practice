@@ -110,7 +110,7 @@ Python-Practice/
 ### Phase 1: Core Projects Expansion (In Progress)
 - [x] InHand Salary Calculator
 - [x] Secret Number
-- [ ] Budget Tracker Application
+- [x] Budget Tracker Application
 - [ ] Todo List Manager
 - [ ] Student Grade Analysis System
 - [ ] Contact Management System
