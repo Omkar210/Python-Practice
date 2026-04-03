@@ -53,6 +53,66 @@ An interactive command-line game where one player sets a secret number and anoth
 
 ---
 
+### 3. **Inventory Management System**
+`Inventory-Management`
+
+A command-line inventory management system for managing shop stock. This application allows users to add products, sell items, restock inventory, and generate stock reports with visual status indicators.
+
+**Key Features:**
+- Add new products with price and quantity
+- Sell products and update stock automatically
+- Restock existing products
+- View comprehensive stock reports
+- Stock status alerts (available, low stock, out of stock)
+- Simple menu-driven interface
+
+**Technology:** Pure Python  
+**Difficulty Level:** Beginner to Intermediate
+
+[View Project Details →](./Inventory-Management/README.md)
+
+---
+
+### 4. **Budget Tracker**
+`budget_tracker`
+
+A simple, interactive command-line application to help you manage your monthly budget and track your expenses effectively. This tool provides budget monitoring with automatic alerts and expense tracking capabilities.
+
+**Key Features:**
+- Set and adjust monthly budget
+- Add individual expenses with automatic deduction
+- View total spent and remaining balance
+- Smart budget warnings at 80% and 100% usage
+- User-friendly menu-driven interface
+- Real-time budget status updates
+
+**Technology:** Pure Python  
+**Difficulty Level:** Beginner
+
+[View Project Details →](./budget_tracker/README.md)
+
+---
+
+### 5. **Business Expense Tracker**
+`track_business_expense`
+
+A Python function designed to track and categorize business expenses with automatic bill summary generation. This utility handles multiple business entities and expense types using flexible argument handling.
+
+**Key Features:**
+- Track expenses for multiple businesses
+- Automatic expense categorization (staff, food, ads, office, etc.)
+- Formatted bill summary output
+- Support for variable business names and expense types
+- Calculation of total expenses
+- Grouped expense reporting
+
+**Technology:** Pure Python  
+**Difficulty Level:** Intermediate
+
+[View Project Details →](./track_business_expense/README.md)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -82,12 +142,24 @@ Python-Practice/
 │
 ├── README.md (This file)
 │
+├── budget_tracker/
+│   ├── Budget_Tracker.py
+│   └── README.md
+│
 ├── InHand_Salary_Calculator/
 │   ├── inhand_salary.py
 │   └── README.md
 │
-└── Secret_Number/
-    ├── secret_number_game.py
+├── Inventory-Management/
+│   ├── inventory_manager.py
+│   └── README.md
+│
+├── Secret_Number/
+│   ├── secret_number_game.py
+│   └── README.md
+│
+└── track_business_expense/
+    ├── track_business_expense.py
     └── README.md
 ```
 
@@ -111,9 +183,9 @@ Python-Practice/
 - [x] InHand Salary Calculator
 - [x] Secret Number
 - [x] Budget Tracker Application
+- [x] Track Business Expense
+- [x] Inventory Management
 - [ ] Todo List Manager
-- [ ] Student Grade Analysis System
-- [ ] Contact Management System
 
 ### Phase 2: Intermediate Projects
 - [ ] File handling projects (CSV/JSON processing)
@@ -225,6 +297,9 @@ Last Updated: **March 2026**
 
 - [In-Hand Salary Calculator →](./InHand_Salary_Calculator/)
 - [Secret Number Game →](./Secret_Number/)
+- [Budget Tracker →](./budget_tracker/)
+- [Track Business Expense →](./track_business_expense/)
+- [Inventory Management →](./Inventory-Management/)
 
 ---
 
