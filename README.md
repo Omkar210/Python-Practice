@@ -113,6 +113,26 @@ A Python function designed to track and categorize business expenses with automa
 
 ---
 
+### 6. **Online Shopping Bill Generator**
+`online_shoping_bill_generator`
+
+A Python-based command-line application for generating shopping bills with automatic discount calculation. This project demonstrates the practical use of **kwargs (keyword arguments) in Python functions for flexible item management and bill processing.
+
+**Key Features:**
+- Interactive menu system for bill management
+- Dynamic item addition with name and price
+- Automatic 10% discount for bills over ₹5000
+- Formatted final bill display
+- Input validation and error handling
+- **kwargs implementation for flexible function parameters
+
+**Technology:** Pure Python  
+**Difficulty Level:** Intermediate
+
+[View Project Details →](./online_shoping_bill_generator/README.md)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -154,6 +174,10 @@ Python-Practice/
 │   ├── inventory_manager.py
 │   └── README.md
 │
+├── online_shoping_bill_generator/
+│   ├── bill_generator.py
+│   └── README.md
+│
 ├── Secret_Number/
 │   ├── secret_number_game.py
 │   └── README.md
@@ -185,6 +209,7 @@ Python-Practice/
 - [x] Budget Tracker Application
 - [x] Track Business Expense
 - [x] Inventory Management
+- [x] Online Shopping Bill Generator
 - [ ] Todo List Manager
 
 ### Phase 2: Intermediate Projects
@@ -300,6 +325,7 @@ Last Updated: **March 2026**
 - [Budget Tracker →](./budget_tracker/)
 - [Track Business Expense →](./track_business_expense/)
 - [Inventory Management →](./Inventory-Management/)
+- [Online Shoping Bill Generator ->](./online_shoping_bill_generator/)
 
 ---
 
