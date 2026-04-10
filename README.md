@@ -133,6 +133,25 @@ A Python-based command-line application for generating shopping bills with autom
 
 ---
 
+### 7. **To-Do List Manager**
+`To-Do_list_Manager`
+
+A simple command-line diary and to-do list manager that saves encrypted notes to a file. This project demonstrates file I/O, password-protected access, and XOR-based text encryption.
+
+**Key Features:**
+- Password-protected diary access
+- Encrypted file storage using XOR encoding
+- Write diary entries and read decrypted content
+- Menu-driven interface for user actions
+- File error handling for missing diary files
+
+**Technology:** Pure Python  
+**Difficulty Level:** Intermediate
+
+[View Project Details →](./To-Do_list_Manager/README.md)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -178,6 +197,10 @@ Python-Practice/
 │   ├── bill_generator.py
 │   └── README.md
 │
+├── To-Do_list_Manager/
+│   ├── to-do_list.py
+│   └── README.md
+│
 ├── Secret_Number/
 │   ├── secret_number_game.py
 │   └── README.md
@@ -210,7 +233,7 @@ Python-Practice/
 - [x] Track Business Expense
 - [x] Inventory Management
 - [x] Online Shopping Bill Generator
-- [ ] Todo List Manager
+- [x] Todo List Manager
 
 ### Phase 2: Intermediate Projects
 - [ ] File handling projects (CSV/JSON processing)
@@ -326,6 +349,7 @@ Last Updated: **March 2026**
 - [Track Business Expense →](./track_business_expense/)
 - [Inventory Management →](./Inventory-Management/)
 - [Online Shoping Bill Generator ->](./online_shoping_bill_generator/)
+- [To-Do List Manager ->](./To-do_list_manager/)
 
 ---
 
