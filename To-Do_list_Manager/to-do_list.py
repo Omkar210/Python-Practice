@@ -3,7 +3,7 @@ def write_diary(username, key):
     message = input(f"Write a message in {username}_diary.txt: ")
     encrypted_message = ""
     try:
-        with open(username+"_dairy.txt", "a+") as file:
+        with open(username+"_diary.txt", "a+") as file:
             for char in message:
                 encrypted_message += chr(ord(char) ^ key)
             file.write(encrypted_message + "\n")
@@ -14,7 +14,7 @@ def write_diary(username, key):
 def read_diary(username, key):
     decrypted_message = ""
     try:
-        with open(username+"_dairy.txt", "r") as file:
+        with open(username+"_diary.txt", "r") as file:
             for line in file:
                 for char in line:
                     line = line.strip()

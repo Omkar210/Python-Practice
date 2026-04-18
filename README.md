@@ -152,6 +152,24 @@ A simple command-line diary and to-do list manager that saves encrypted notes to
 
 ---
 
+### 8. **My Diary**
+`My_Diary`
+
+A password-protected diary application that stores encrypted notes and lets users write/read entries from the command line.
+
+**Key Features:**
+- Password-protected diary access
+- XOR-based encryption for stored notes
+- Write and read diary entries
+- Simple menu-driven interface
+
+**Technology:** Pure Python  
+**Difficulty Level:** Beginner to Intermediate
+
+[View Project Details →](./My_Diary/README.md)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
@@ -201,6 +219,10 @@ Python-Practice/
 │   ├── to-do_list.py
 │   └── README.md
 │
+├── My_Diary/
+│   ├── my_diary.py
+│   └── README.md
+│
 ├── Secret_Number/
 │   ├── secret_number_game.py
 │   └── README.md
@@ -234,6 +256,7 @@ Python-Practice/
 - [x] Inventory Management
 - [x] Online Shopping Bill Generator
 - [x] Todo List Manager
+- [x] My_Diary (Mini-Project)
 
 ### Phase 2: Intermediate Projects
 - [ ] File handling projects (CSV/JSON processing)
@@ -350,6 +373,7 @@ Last Updated: **March 2026**
 - [Inventory Management →](./Inventory-Management/)
 - [Online Shoping Bill Generator ->](./online_shoping_bill_generator/)
 - [To-Do List Manager ->](./To-do_list_manager/)
+- [My_Diary ->](./My_Diary/)
 
 ---
 
